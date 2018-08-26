@@ -2,10 +2,10 @@ import numpy as np
 import cv2
 import keras
 from keras.models import load_model
-
+import os
 
 facial_index = {0:"Angry",1 :"Disgust",2:"Fear",3:"Happy",4:"Sad",5:"Surprise",6:"Neutral"}
-model = load_model("facial_expression.h5")
+model = load_model(os.path.join('model',"facial_expression.h5"))
 
 def draw_str(dst, x_y, s):
     x, y = x_y
