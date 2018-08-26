@@ -1,0 +1,10 @@
+h5py==2.8.0
+Keras==2.2.0
+matplotlib==2.2.0
+numpy==1.14.2
+pandas==0.23.3
+Pillow==5.0.0
+scipy==1.0.0
+six==1.11.0
+tensorboard==1.8.0
+tensorflow==1.8.0
