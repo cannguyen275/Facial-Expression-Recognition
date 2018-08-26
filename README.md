@@ -46,7 +46,7 @@ Now you can switch to the new environment by running the following (on Linux):
 ### Required Packages
 
 The tutorials require several Python packages to be installed, especially Keras, Tensorflow and OpenCv. The packages are listed in
-[requirements.txt](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/requirements.txt)
+[requirements.txt](https://github.com/cannguyen275/Facial-Expression-Recognition/blob/master/requirements.txt)
 First you need to edit this file and select whether you want to install the CPU or GPU
 version of TensorFlow.
 
