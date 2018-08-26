@@ -4,7 +4,7 @@ Original author is [Louis Can Nguyen](https://www.linkedin.com/in/cannguyenngoc/
 
 ## Introduction
 
-* This tutorials will show you how to run a simple, accurate facial expression recognition system with my trained model, using Deep Learning and OpenCV. 6 emotions can detect is angry, disgust, fear, happy, sad, surprise, neutral.
+* This tutorials will show you how to run a simple, accurate facial expression recognition system with my trained model, using Deep Learning and OpenCV. 7 emotions can detect is angry, disgust, fear, happy, sad, surprise, neutral.
 
 * For someone who interested with this system, I create Jupyter Notebook file to show you how I have trained this model.
 
